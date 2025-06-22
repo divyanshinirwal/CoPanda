@@ -12,7 +12,7 @@ Backend: Node.js, Docker, MongoDB, and one hypervised, lightweight, immortal vir
 
 Let me introduce the humans (redacted for privacy):
 
-- **Dhruv:** Of course, first me!  
+- **Divyanshi:** Of course, first me!  
 - **Ayush:** The AI-envious guy  
 - **Manpreet:** The dictator
 
